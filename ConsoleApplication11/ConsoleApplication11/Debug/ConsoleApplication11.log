@@ -1,0 +1,4 @@
+﻿  ConsoleApplication11.cpp
+C:\Users\Андрей\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(196,13): warning C4101:  temp: неиспользованная локальная переменная
+C:\Users\Андрей\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(216,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication11.vcxproj -> C:\Users\Андрей\source\repos\ConsoleApplication11\Debug\ConsoleApplication11.exe
